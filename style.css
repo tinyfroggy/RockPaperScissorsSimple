@@ -6,11 +6,18 @@ body {
     font-family: "Open Sans", sans-serif;
     font-family: "Poppins", sans-serif;
     font-family: "Shantell Sans", cursive;
+    font-size: 25px;
   }
 .choiceBtn{
     line-height: 30px;
     width: 150px;
+    font-size: 25px;
+    font-family: "Cairo", sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-family: "Open Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
     font-family: "Shantell Sans", cursive;
+    
 }
 #gameDiv{
     font-family: 'Brash Script MT', cursive;
