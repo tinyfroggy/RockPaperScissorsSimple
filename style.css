@@ -1,6 +1,16 @@
+body {
+    background-color: #1b1b1b;
+    margin: 0px;
+    font-family: "Cairo", sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-family: "Open Sans", sans-serif;
+    font-family: "Poppins", sans-serif;
+    font-family: "Shantell Sans", cursive;
+  }
 .choiceBtn{
     line-height: 30px;
     width: 150px;
+    font-family: "Shantell Sans", cursive;
 }
 #gameDiv{
     font-family: 'Brash Script MT', cursive;
